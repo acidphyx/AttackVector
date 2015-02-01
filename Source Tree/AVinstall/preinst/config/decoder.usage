@@ -1,0 +1,12 @@
+	---> Decoder Options! <---
+
+  Common options:
+      -l : don't remove the 802.11 header
+      -b <bssid> : access point MAC address filter
+      -e <essid> : target network SSID
+  WEP specific option:
+      -w <key> : target network WEP key in hex
+  WPA specific options:
+      -p <pass> : target network WPA passphrase
+      -k <pmk> : WPA Pairwise Master Key in hex
+      --help : Displays this usage screen

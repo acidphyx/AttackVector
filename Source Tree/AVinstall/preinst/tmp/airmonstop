@@ -1,0 +1,7 @@
+
+
+Interface	Chipset		Driver
+
+wifi0		Atheros		madwifi-ng
+ath0		Atheros		madwifi-ng VAP (parent: wifi0) (VAP destroyed)
+
